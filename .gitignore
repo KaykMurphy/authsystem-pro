@@ -1,0 +1,18 @@
+# Arquivos sensíveis
+src/main/resources/application.properties
+application.properties
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Build
+target/
+*.class
+
+# Logs
+*.log
